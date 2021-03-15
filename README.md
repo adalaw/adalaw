@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adalaw
+- 🌱 I’m always learning JavaScript, Django and Python. I'm planning to start React and WordPress.
+- 💞️ I’m looking to collaborate on web development
+- 📫 Email me at adalawys@gmail.com
+- 👀 Please don't forget to visit my portfolio: http://adalawportfolio.pythonanywhere.com/
